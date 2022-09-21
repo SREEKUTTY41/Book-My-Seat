@@ -1,7 +1,10 @@
 # Book-My-Seat
 Book My Seat using Javascripy,HTML,CSS
+
 Display movie choices and seats in a theater to select from in order to purchase tickets
-Project Specifications
+
+Project Specifications-
+
 Display UI with movie select, screen, seats, legend & seat info
 User can select a movie/price
 User can select/deselect seats
